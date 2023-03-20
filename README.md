@@ -1,5 +1,10 @@
 # MineFarm
 
+플러그인 사용간 부가 플러그인인 
+
+https://github.com/xodid8881/InventoryLib
+
+플러그인을 이용합니다.
 ![6_45iUd018svc1slgdae065s9w_8jelv](https://user-images.githubusercontent.com/26338400/226331161-e532113b-9333-457e-a31c-756446966e9d.jpg)
 ![6_35iUd018svc1437qjg50k4l8_8jelv](https://user-images.githubusercontent.com/26338400/226331166-14e19515-b791-46d6-92bd-39d402cd4905.jpg)
 ![6_25iUd018svco0mxwbd0wp0j_8jelv](https://user-images.githubusercontent.com/26338400/226331170-ebc84f1b-8563-406e-922e-2da29873c254.jpg)
