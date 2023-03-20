@@ -1,0 +1,5 @@
+name: MineFarmManager
+author: HWABAEG
+main: MineFarmManager\MineFarmManager
+version: B1
+api: [4.0.0]
