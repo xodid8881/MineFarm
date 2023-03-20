@@ -1,14 +1,17 @@
 # MineFarm
 
 플러그인 사용간 부가 플러그인 
-- InventoryLib 플러그인을 이용해야 합니다.
-- https://github.com/xodid8881/InventoryLib
-- 
-- 추가적으로 머니 플러그인을 개인적 연동을 진행해야 함을 당부합니다.
 
+## InventoryLib 플러그인을 이용해야 합니다.
+- InventoryLib 플러그인
+- [InventoryLib](https://github.com/xodid8881/InventoryLib)
+
+
+## 추가적으로 머니 플러그인을 개인적 연동을 진행해야 함을 당부합니다.
 
 - 개인적인 머니 플러그인이 필요하다면 해당 플러그인을 사용하세요.
-- https://github.com/xodid8881/MoneyManager
+- MoneyManager 플러그인
+- [MoneyManager](https://github.com/xodid8881/MoneyManager)
 
 플러그인을 이용합니다.
 ![6_45iUd018svc1slgdae065s9w_8jelv](https://user-images.githubusercontent.com/26338400/226331161-e532113b-9333-457e-a31c-756446966e9d.jpg)
